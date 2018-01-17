@@ -5,7 +5,7 @@
 </p>
 
 
-Parse <pre><b>product_name</b></pre> | category | url and related `product image`
+Parse > **product_name** | category | url and related `product image`
 
 ## Requirements
  - Python 2.7
