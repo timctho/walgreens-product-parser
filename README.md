@@ -4,9 +4,9 @@
     <img src="https://github.com/timctho/walgreens-product-parser/raw/master/product_sample.png", width="480">
 </p>
 
-<pre>
-Parse <b>product_name</b> | category | url` and related `product image`
-</pre>
+
+Parse <pre><b>product_name</b></pre> | category | url and related `product image`
+
 ## Requirements
  - Python 2.7
  - selenium
